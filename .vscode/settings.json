@@ -2,5 +2,7 @@
     "terminal.integrated.commandsToSkipShell": [
         ""
     ],
-    "files.autoSave": "onFocusChange"
+    "files.autoSave": "onFocusChange",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlineSuggest.minShowDelay": 10000
 }
